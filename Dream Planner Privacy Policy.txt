@@ -1,0 +1,63 @@
+Excellent, we have all the necessary information to draft a privacy policy for "Dream Planner". Based on your inputs, I'll now create a privacy policy outline that covers key aspects such as data collection, user consent, data security, compliance with international laws, user rights, and legal disclaimers.
+
+Please give me a moment to prepare the draft.
+
+Privacy Policy for Dream Planner
+
+Last Updated: 12.01.2024
+
+Introduction
+
+Welcome to Dream Planner! This privacy policy outlines how we collect, use, protect, and handle your personal information when you use our services. Our commitment is to respect your privacy and comply with applicable data protection laws.
+
+Data Collection
+
+We collect the following personal information from you:
+
+Email addresses
+Calendar tasks (via Google Calendar)
+Consent
+
+By using Dream Planner, you consent to our collection and use of your personal information as described in this policy. Consent is obtained through a clear and concise consent form.
+
+Use of Data
+
+The data collected is used solely for the purpose of breaking down tasks and integrating them into Google Calendar.
+
+Data Sharing
+
+We do not share your personal data with any third parties.
+
+Data Security
+
+We are committed to protecting your data's security. We employ OpenAI's security measures to ensure the protection of your personal information against unauthorized access, alteration, disclosure, or destruction.
+
+Compliance with International Laws
+
+Given our global accessibility, we adhere to various international data protection laws, including GDPR, CCPA, and PIPEDA.
+
+User Rights
+
+As a user, you can access, update, or delete your personal information through your Google account. We provide necessary support to facilitate these rights.
+
+Cookies and Tracking Technologies
+
+We do not use cookies or similar tracking technologies.
+
+Children's Privacy
+
+Dream Planner does not knowingly collect data from individuals under the age of 16.
+
+Legal Disclaimers
+
+Dream Planner and its creators are not responsible for any incorrect or incomplete information provided by the service. Users are responsible for their actions following the instructions or planning provided by Dream Planner.
+
+Contact Information
+
+For any privacy-related concerns, users can contact us directly through the app or website.
+
+Changes to This Policy
+
+We reserve the right to modify this policy at any time. Any changes will be promptly reflected in this document.
+
+Please review this draft and let me know if there are any specific changes or additions you would like to make.
